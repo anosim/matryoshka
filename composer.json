@@ -1,5 +1,5 @@
 {
-    "name": "laracasts/matryoshka",
+    "name": "anosim/matryoshka",
     "description": "Russian Doll Caching for Laravel.",
     "license": "MIT",
     "keywords": ["laravel", "cache"],
